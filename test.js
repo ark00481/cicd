@@ -1,6 +1,6 @@
 // Requiring module
 const assert = require('assert');
-
+// Added a commit to check the things
 // We can group similar tests inside a describe block
 describe("Simple Calculations", () => {
 before(() => {
